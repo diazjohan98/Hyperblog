@@ -4,4 +4,10 @@ tengo 23 años
 
 estudio en el sena 
 
+master 1
+
+master 2
+
+experimiento 2
+
 mañana nos enfocaremos en su vida laboral
